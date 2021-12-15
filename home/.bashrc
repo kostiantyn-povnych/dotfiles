@@ -1,0 +1,1 @@
+../../kp-env/home/.bashrc
