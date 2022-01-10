@@ -1,0 +1,795 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github_actions" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github_actions" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:actions" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalez-stor/src/blobs/blobs_service.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29546">
+              <caret line="1389" column="14" selection-start-line="1389" selection-start-column="14" selection-end-line="1389" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.github/dependabot.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/release.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/cicd-pr.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3762">
+              <caret line="171" column="45" selection-start-line="171" selection-start-column="45" selection-end-line="171" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalez-stor/src/lib.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalez-stor/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/objstore.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="e#50#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/cicd-full.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4884">
+              <caret line="222" column="13" selection-start-line="222" selection-start-column="13" selection-end-line="222" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scalez-stor/src/garbage_collection/mod.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/extents.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GarbageCollection</find>
+      <find>GCStat</find>
+      <find>GCRequest</find>
+      <find>PendingExtentInfo</find>
+      <find>prost</find>
+      <find>nasty</find>
+      <find>ChunksServ</find>
+      <find>for exte</find>
+      <find>scalez-stor-test</find>
+      <find>scalez_stor_test</find>
+      <find>scalez_stor_test::</find>
+      <find>scalez_stor</find>
+      <find>BlobsSer</find>
+      <find>ingest_new_chunks_exist</find>
+      <find>scalez_stor::config::KeyManagementConf</find>
+      <find>rust-doc</find>
+      <find>test_framework</find>
+      <find>doc --workspace</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>scalez_stor_test::test_framework</replace>
+      <replace>scalez_stor::test_framework::</replace>
+      <replace>test</replace>
+      <replace>crate</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/scalez-stor-client/src</dir>
+      <dir>$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor</dir>
+      <dir>$PROJECT_DIR$/scalez-stor/src/protobuf/scalez/stor</dir>
+      <dir>$PROJECT_DIR$/scalez-stor/src/blobs</dir>
+      <dir>$PROJECT_DIR$/scalez-stor/src</dir>
+      <dir>$PROJECT_DIR$/scalez-stor-test</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/scalez-stor/src/test_framework</dir>
+      <dir>$PROJECT_DIR$/scalez-stor</dir>
+      <dir>$PROJECT_DIR$/scalez-stor/tests/integration</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/scalez-stor/src/chunks/chunk_locations.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/chunks/chunk_store.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor-test/src/chunks.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/extents/extent_store.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor-test/src/extents.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor/common.proto" />
+      <option value="$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor/chunks.proto" />
+      <option value="$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor/extents.proto" />
+      <option value="$PROJECT_DIR$/scalez-stor-client/Cargo.toml" />
+      <option value="$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor/blobs.proto" />
+      <option value="$PROJECT_DIR$/scalez-stor-client/src/blobs.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor-client/src/generated/scalez.stor.chunks.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor-test/src/blobs.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor-test/Cargo.toml" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/chunks/chunks_service.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/chunks/mod.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/extents/mod.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/gc.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/extents/extents_service.rs" />
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/test_framework/common.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/test_framework/blobs.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/test_framework/chunks.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/vault.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/blobs.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/chunks.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/extents.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/main.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/test_framework/extents.rs" />
+      <option value="$PROJECT_DIR$/.github/workflows/cicd-pr.yml" />
+      <option value="$PROJECT_DIR$/.github/workflows/cicd-full.yml" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/test_framework/mod.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/Cargo.toml" />
+      <option value="$PROJECT_DIR$/scalez-stor/tests/integration/objstore.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/lib.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/test/mod.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/blobs/blobs_service.rs" />
+      <option value="$PROJECT_DIR$/scalez-stor/src/garbage_collection/mod.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scalez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalez" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalez" type="462c0819:PsiDirectoryNode" />
+              <item name="scalez-stor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalez" type="462c0819:PsiDirectoryNode" />
+              <item name="scalez-stor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalez" type="462c0819:PsiDirectoryNode" />
+              <item name="scalez-stor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="garbage_collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="scalez-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 11h 27m 42s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 21m 01s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 24m 03s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 26m 06s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 27m 08s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 51m 08s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 52m 29s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_gc__gc_hard_deleted_blob_version - 2021.10.05 at 12h 56m 46s.xml">
+      <configuration name="Test gc::gc_hard_deleted_blob_version" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_blobs_service__tests - 2021.10.06 at 21h 05m 23s.xml">
+      <configuration name="Test blobs_service::tests" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_blobs_service__tests - 2021.10.06 at 21h 07m 47s.xml">
+      <configuration name="Test blobs_service::tests" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50072885" visible="true" weight="0.13046876" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32975066" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40025795" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.29793638" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24634567" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Build" order="14" visible="true" weight="0.23086844" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Structure" order="3" sideWeight="0.49927115" weight="0.20078126" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50072885" visible="true" weight="0.20078126" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32975066" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40025795" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.23086844" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Structure" order="3" sideWeight="0.49927115" visible="true" weight="0.20078126" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>File Transfer</value>
+      <value>Terminal</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2459" y="251" width="832" height="711" key="#SSH_Configurations" timestamp="1633440707127">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2459" y="251" width="832" height="711" key="#SSH_Configurations/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633440707127" />
+    <state x="2576" y="341" width="597" height="524" key="#Servers" timestamp="1633525998153">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2576" y="341" width="597" height="524" key="#Servers/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633525998153" />
+    <state x="2458" y="350" width="844" height="540" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633550226584">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2458" y="350" width="844" height="540" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633550226584" />
+    <state x="2758" y="303" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1633609104286">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2758" y="303" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633609104286" />
+    <state x="2613" y="349" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1633381227189">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2613" y="349" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633381227189" />
+    <state x="2736" y="285" width="478" height="620" key="#com.intellij.tools.ToolEditorDialog" timestamp="1633609155307">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2736" y="285" width="478" height="620" key="#com.intellij.tools.ToolEditorDialog/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633609155307" />
+    <state x="2763" y="212" width="424" height="491" key="FileChooserDialogImpl" timestamp="1633605808779">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2763" y="212" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633605808779" />
+    <state width="1876" height="355" key="GridCell.Tab.0.bottom" timestamp="1633946413732">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="355" key="GridCell.Tab.0.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633946413732" />
+    <state width="1876" height="355" key="GridCell.Tab.0.center" timestamp="1633946413731">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="355" key="GridCell.Tab.0.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633946413731" />
+    <state width="1876" height="355" key="GridCell.Tab.0.left" timestamp="1633946413730">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="355" key="GridCell.Tab.0.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633946413730" />
+    <state width="1876" height="355" key="GridCell.Tab.0.right" timestamp="1633946413731">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="355" key="GridCell.Tab.0.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633946413731" />
+    <state width="1876" height="437" key="GridCell.Tab.1.bottom" timestamp="1633440470977">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="437" key="GridCell.Tab.1.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633440470977" />
+    <state width="1876" height="437" key="GridCell.Tab.1.center" timestamp="1633440470975">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="437" key="GridCell.Tab.1.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633440470975" />
+    <state width="1876" height="437" key="GridCell.Tab.1.left" timestamp="1633440470974">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="437" key="GridCell.Tab.1.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633440470974" />
+    <state width="1876" height="437" key="GridCell.Tab.1.right" timestamp="1633440470976">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="437" key="GridCell.Tab.1.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633440470976" />
+    <state x="2307" y="45" width="1346" height="818" key="SettingsEditor" timestamp="1634235372953">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2307" y="45" width="1346" height="818" key="SettingsEditor/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1634235372953" />
+    <state x="2746" y="189" width="681" height="576" key="find.popup" timestamp="1633597414191">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2746" y="189" width="681" height="576" key="find.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633597414191" />
+    <state x="2418" y="444" key="ftp.server.browser" timestamp="1633605169550">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2418" y="444" key="ftp.server.browser/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633605169550" />
+    <state x="2543" y="269" width="672" height="686" key="search.everywhere.popup" timestamp="1633621726593">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2543" y="269" width="672" height="686" key="search.everywhere.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1633621726593" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scalez-stor-client/src/generated/scalez.stor.blobs.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="2267" column="17" selection-start-line="2267" selection-start-column="17" selection-end-line="2267" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor/blobs.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="751" lean-forward="true" selection-start-line="751" selection-end-line="751" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-rpc-build/src/protobuf/scalez/stor/extents.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="258" column="3" lean-forward="true" selection-start-line="258" selection-start-column="3" selection-end-line="258" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/protobuf/scalez/stor/blobs.internal.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/server.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/generated/scalez.stor.extents.internal.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/extents/extent_store.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="340" column="26" selection-start-line="340" selection-start-column="26" selection-end-line="340" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/generated/scalez.stor.common.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/extents/gc_gob.rs" />
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/generated/scalez.stor.chunks.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="387" column="11" selection-start-line="387" selection-start-column="11" selection-end-line="387" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/protobuf/scalez/stor/chunks.internal.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/protobuf/scalez/stor/extents.internal.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/generated/scalez.stor.blobs.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-client/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#423#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/blobs/blob_reader.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="407" lean-forward="true" selection-start-line="407" selection-end-line="407" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-client/src/generated/scalez.stor.chunks.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1473" column="17" selection-start-line="1473" selection-start-column="17" selection-end-line="1473" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/chunks/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-client/src/blobs.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="1074" column="44" selection-start-line="1074" selection-start-column="44" selection-end-line="1074" selection-end-column="44" />
+          <folding>
+            <element signature="e#910#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/chunks/chunks_service.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9416">
+          <caret line="445" selection-start-line="445" selection-end-line="445" />
+          <folding>
+            <element signature="e#122#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/generated/scalez.stor.extents.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-client/src/generated/scalez.stor.extents.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/gc.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/extents/extents_service.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="1120" column="5" selection-start-line="1120" selection-start-column="5" selection-end-line="1120" selection-end-column="5" />
+          <folding>
+            <element signature="e#124#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-test/Cargo.toml" />
+    <entry file="file://$PROJECT_DIR$/scalez-stor-test/tests/integration/main.rs" />
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/extents/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor-client/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/test/chunks.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/vault.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="e#63#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/blobs.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#44#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/chunks.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#424#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/blobs/mod.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/test/extents.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/test/common.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/tables/mod.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1559">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/test/blobs.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/test/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/buildbox/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="119" column="34" lean-forward="true" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/blobs/blobs_service.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29546">
+          <caret line="1389" column="14" selection-start-line="1389" selection-start-column="14" selection-end-line="1389" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/dependabot.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/release.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/cicd-pr.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3762">
+          <caret line="171" column="45" selection-start-line="171" selection-start-column="45" selection-end-line="171" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/objstore.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#50#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/cicd-full.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4884">
+          <caret line="222" column="13" selection-start-line="222" selection-start-column="13" selection-end-line="222" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/src/garbage_collection/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalez-stor/tests/integration/extents.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="AnnotationsAndDiffs.html" value="1630937856934" />
+        <entry key="CompareDataSources.html" value="1641216757734" />
+        <entry key="CtrlShiftI.html" value="1630683181956" />
+        <entry key="CtrlW.html" value="1634235273901" />
+        <entry key="ExcludeFromProject.html" value="1632407594411" />
+        <entry key="Generate.html" value="1632407585104" />
+        <entry key="IntroduceConstant.html" value="1627892462907" />
+        <entry key="LiveTemplates.html" value="1628501727185" />
+        <entry key="MenuItemsDescriptions.html" value="1632041823786" />
+        <entry key="MethodSeparators.html" value="1633507664595" />
+        <entry key="QuickFix.html" value="1632842448518" />
+        <entry key="QuickSwitchScheme.html" value="1631173924329" />
+        <entry key="RecentChanges.html" value="1633358517061" />
+        <entry key="SpeedSearch.html" value="1628240625078" />
+        <entry key="TabInLookups.html" value="1629457802874" />
+        <entry key="local_history.html" value="1631862858007" />
+        <entry key="partial_git_commit.html" value="1632407572318" />
+      </map>
+    </option>
+  </component>
+</application>

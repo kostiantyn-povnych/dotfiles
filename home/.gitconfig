@@ -1,3 +1,5 @@
 [user]
 	name = Kostiantyn Povnych
 	email = kpovnych@elastio.com
+[credential]
+	helper = store

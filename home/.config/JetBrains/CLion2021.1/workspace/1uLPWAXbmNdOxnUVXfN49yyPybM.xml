@@ -1,0 +1,817 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pr" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/db/maintenance.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#1184#1241#0" expanded="true" />
+                <element signature="e#2508#2509#0" expanded="true" />
+                <element signature="e#2550#2551#0" expanded="true" />
+                <element signature="e#2753#2754#0" expanded="true" />
+                <element signature="e#2783#2784#0" expanded="true" />
+                <element signature="e#2481#2482#0" expanded="true" />
+                <element signature="e#2511#2512#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.rustup/toolchains/1.51.0-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/ops/function.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="226" selection-start-line="226" selection-end-line="226" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/roxide/src/ops/flush.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/db/txdb.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/db/db.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="e#113#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/lib.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
+              <folding>
+                <element signature="e#105#125#0" expanded="true" />
+                <element signature="e#861#982#0" expanded="true" />
+                <element signature="e#2258#2259#0" expanded="true" />
+                <element signature="e#2293#2294#0" expanded="true" />
+                <element signature="e#3363#3364#0" expanded="true" />
+                <element signature="e#3389#3390#0" expanded="true" />
+                <element signature="e#3935#3936#0" expanded="true" />
+                <element signature="e#3965#3966#0" expanded="true" />
+                <element signature="e#4005#4006#0" expanded="true" />
+                <element signature="e#4036#4037#0" expanded="true" />
+                <element signature="e#5960#5961#0" expanded="true" />
+                <element signature="e#6005#6006#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/handle.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/ops/mod.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+              <folding>
+                <element signature="e#1044#1646#0" expanded="true" />
+                <element signature="e#5195#5196#0" expanded="true" />
+                <element signature="e#5237#5238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/ops/open.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roxide/src/ops/live_files.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pub use handle::RocksObject;</find>
+      <find>DbOps</find>
+      <find>impl DbOps for</find>
+      <find>for TransactionDb</find>
+      <find>impl DbLike</find>
+      <find>rocks_db_impl</find>
+      <find>GetLatestSequenceNumber</find>
+      <find>pub tr</find>
+      <find>rocks</find>
+      <find>OptimisticTransactionDbColumnFamily</find>
+      <find>rocksdb_access_hint_on_compaction_start</find>
+      <find>BottommostLevelCompaction</find>
+      <find>SeekToLast</find>
+      <find>seektoLa</find>
+      <find>rocksdb_compact_range_optrocksdb_compact_range_optrocksdb_compact_range_opt</find>
+      <find>raw_ite</find>
+      <find>put_cf_opt</find>
+      <find>raw_iterator_cf</find>
+      <find>raw_iterate</find>
+      <find>hashmap</find>
+      <find>rocksdb_fl</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/roxide-rocksdb</dir>
+      <dir>$PROJECT_DIR$/roxide/src</dir>
+      <dir>$PROJECT_DIR$/roxide-librocksdb-sys/rocksdb/utilities/transactions</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/roxide/src/db</dir>
+      <dir>$PROJECT_DIR$/roxide-librocksdb-sys/rocksdb/db</dir>
+      <dir>$PROJECT_DIR$/roxide-rocksdb/src</dir>
+      <dir>$PROJECT_DIR$/roxide/src/ops</dir>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/roxide/src/lib.rs" />
+      <option value="$PROJECT_DIR$/roxide/src/test/TestDb.rs" />
+      <option value="$PROJECT_DIR$/roxide/src/ops/mod.rs" />
+      <option value="$PROJECT_DIR$/roxide-rocksdb/src/db.rs" />
+      <option value="$PROJECT_DIR$/roxide-rocksdb/tests/test_db.rs" />
+      <option value="$PROJECT_DIR$/roxide/src/iterator.rs" />
+      <option value="$PROJECT_DIR$/roxide/src/ops/compact.rs" />
+      <option value="$PROJECT_DIR$/roxide/src/db/mod.rs" />
+      <option value="$PROJECT_DIR$/roxide/src/db/maintenance.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide-librocksdb-sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roxide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roxide" type="462c0819:PsiDirectoryNode" />
+              <item name="roxide-rocksdb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/roxide" commandHistoryFileName="roxide-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_seek_is_smart - 2021.07.26 at 12h 33m 30s.xml">
+      <configuration name="Test seek_is_smart" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_seek_is_smart - 2021.07.26 at 12h 34m 29s.xml">
+      <configuration name="Test seek_is_smart" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_seek_is_smart - 2021.07.26 at 12h 35m 05s.xml">
+      <configuration name="Test seek_is_smart" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_seek_is_smart - 2021.07.26 at 12h 38m 35s.xml">
+      <configuration name="Test seek_is_smart" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_ops__compact__test__db_compact - 2021.07.26 at 19h 36m 20s.xml">
+      <configuration name="Test ops::compact::test::db_compact" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_ops__compact__test__db_compact - 2021.07.26 at 19h 37m 33s.xml">
+      <configuration name="Test ops::compact::test::db_compact" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_db__maintenance__tests__file_num_compaction_trigger - 2021.08.02 at 11h 04m 21s.xml">
+      <configuration name="Test db::maintenance::tests::file_num_compaction_trigger" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_db__maintenance__tests__file_num_compaction_trigger - 2021.08.02 at 11h 06m 48s.xml">
+      <configuration name="Test db::maintenance::tests::file_num_compaction_trigger" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_db__maintenance__tests__file_num_compaction_trigger - 2021.08.02 at 11h 16m 31s.xml">
+      <configuration name="Test db::maintenance::tests::file_num_compaction_trigger" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_db__maintenance__tests__file_num_compaction_trigger - 2021.08.02 at 11h 17m 40s.xml">
+      <configuration name="Test db::maintenance::tests::file_num_compaction_trigger" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49592000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49678457" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50321543" side_tool="true" visible="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299725" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40971586" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31954888" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.1787351" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="2688" y="319" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1627891862478">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2688" y="319" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627891862478" />
+    <state width="1876" height="419" key="GridCell.Tab.0.bottom" timestamp="1627892422690">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.0.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422690" />
+    <state width="1876" height="419" key="GridCell.Tab.0.center" timestamp="1627892422690">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.0.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422690" />
+    <state width="1876" height="419" key="GridCell.Tab.0.left" timestamp="1627892422689">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.0.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422689" />
+    <state width="1876" height="419" key="GridCell.Tab.0.right" timestamp="1627892422690">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.0.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422690" />
+    <state width="1876" height="419" key="GridCell.Tab.1.bottom" timestamp="1627892422693">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.1.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422693" />
+    <state width="1876" height="419" key="GridCell.Tab.1.center" timestamp="1627892422692">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.1.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422692" />
+    <state width="1876" height="419" key="GridCell.Tab.1.left" timestamp="1627892422691">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.1.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422691" />
+    <state width="1876" height="419" key="GridCell.Tab.1.right" timestamp="1627892422692">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="419" key="GridCell.Tab.1.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892422692" />
+    <state x="2369" y="235" width="1022" height="737" key="SettingsEditor" timestamp="1627660775540">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2369" y="235" width="1022" height="737" key="SettingsEditor/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627660775540" />
+    <state x="748" y="162" width="598" height="520" key="find.popup" timestamp="1627892331955">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="748" y="162" width="598" height="520" key="find.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627892331955" />
+    <state x="2627" y="240" width="598" height="520" key="find.popup/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1627309532506" />
+    <state x="2530" y="268" width="699" height="702" key="search.everywhere.popup" timestamp="1627662460871">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2530" y="268" width="699" height="702" key="search.everywhere.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1627662460871" />
+    <state x="659" y="289" width="672" height="686" key="search.everywhere.popup/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1626868233619" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/all_ops.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="84" column="34" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/write.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#2987#4202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/build.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ffi_util.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-librocksdb-sys/rocksdb/utilities/transactions/optimistic_transaction.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3542">
+          <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ffi_util.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-librocksdb-sys/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-librocksdb-sys/rocksdb/utilities/transactions/optimistic_transaction_db_impl.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="31" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/db/opt_txdb.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-librocksdb-sys/rocksdb/HISTORY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/get_db_ptr.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/1.51.0-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/ptr/non_null.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/checkpoint.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/compaction_filter.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#3668#3669#0" expanded="true" />
+            <element signature="e#3703#3704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/comparator.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/snapshot.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2662">
+          <caret line="121" column="36" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-librocksdb-sys/rocksdb/db/db_iterator_test.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/checkpoint.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/tests/test_sst_file_writer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-librocksdb-sys/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/column_family.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/db_iterator.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="80" column="1" lean-forward="true" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding>
+            <element signature="e#14890#15660#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/tests/test_db.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="1050" column="46" lean-forward="true" selection-start-line="1050" selection-start-column="46" selection-end-line="1050" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/compact.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#264#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/db_options.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6908">
+          <caret line="338" column="11" selection-start-line="338" selection-start-column="11" selection-end-line="338" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/put.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/iterate.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+          <folding>
+            <element signature="e#3615#3726#0" />
+            <element signature="e#3845#4856#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide-rocksdb/src/db.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22484">
+          <caret line="1075" column="23" selection-start-line="1075" selection-start-column="23" selection-end-line="1075" selection-end-column="23" />
+          <folding>
+            <element signature="e#588#1121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/get.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6490">
+          <caret line="308" column="32" selection-start-line="308" selection-start-column="14" selection-end-line="308" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/maplit-1.0.2/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/iterator.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="619" column="4" selection-start-line="619" selection-start-column="4" selection-end-line="619" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/db/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="204" column="13" selection-start-line="204" selection-start-column="13" selection-end-line="204" selection-end-column="13" />
+          <folding>
+            <element signature="e#9377#13738#0" />
+            <element signature="e#9591#10699#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/test/TestDb.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/error.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#266#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/stats.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="235" column="27" lean-forward="true" selection-start-line="235" selection-start-column="27" selection-end-line="235" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/stats.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/open.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+          <folding>
+            <element signature="e#1044#1646#0" expanded="true" />
+            <element signature="e#5195#5196#0" expanded="true" />
+            <element signature="e#5237#5238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/live_files.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/handle.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/db/txdb.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/1.51.0-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/ops/function.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/db/db.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#113#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
+          <folding>
+            <element signature="e#105#125#0" expanded="true" />
+            <element signature="e#861#982#0" expanded="true" />
+            <element signature="e#2258#2259#0" expanded="true" />
+            <element signature="e#2293#2294#0" expanded="true" />
+            <element signature="e#3363#3364#0" expanded="true" />
+            <element signature="e#3389#3390#0" expanded="true" />
+            <element signature="e#3935#3936#0" expanded="true" />
+            <element signature="e#3965#3966#0" expanded="true" />
+            <element signature="e#4005#4006#0" expanded="true" />
+            <element signature="e#4036#4037#0" expanded="true" />
+            <element signature="e#5960#5961#0" expanded="true" />
+            <element signature="e#6005#6006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/db/maintenance.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#1184#1241#0" expanded="true" />
+            <element signature="e#2508#2509#0" expanded="true" />
+            <element signature="e#2550#2551#0" expanded="true" />
+            <element signature="e#2753#2754#0" expanded="true" />
+            <element signature="e#2783#2784#0" expanded="true" />
+            <element signature="e#2481#2482#0" expanded="true" />
+            <element signature="e#2511#2512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roxide/src/ops/flush.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

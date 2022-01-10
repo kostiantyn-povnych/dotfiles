@@ -1,0 +1,700 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-tests/tests/end_to_end.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+              <folding>
+                <element signature="e#80#156#0" expanded="true" />
+                <element signature="e#320#1270#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-grpc/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-tests/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-grpc/tests/integration/opt_context_propagation.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-grpc/tests/integration/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/lib.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-status-tests/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matroskin-protobuf/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{buckets, LabeledHistogram, LabeledIntCounter, MetricLabels}</find>
+      <find>impl&lt;'a&gt; Extractor for MetadataMap</find>
+      <find>impl&lt;'a&gt; Extractor for MetadataMap&lt;'a&gt;</find>
+      <find>&amp;mut MetadataMap</find>
+      <find>tonic::Request&lt;Req&gt;</find>
+      <find>init</find>
+      <find>receive</find>
+      <find>info_span!(target: &quot;matroskin_grpc::client&quot;</find>
+      <find>Grea</find>
+      <find>ClientMetadataMap</find>
+      <find>global::tracer(&quot;greeter&quot;).start_with_context</find>
+      <find>Metada</find>
+      <find>let parent_cx = global::get_text_map_propagator(|prop|</find>
+      <find>global, new_pipeline, Context, Extractor</find>
+      <find>heburashka::logging::</find>
+      <find>cheburashka = { path = &quot;../../cheburashka/cheburashka&quot; }</find>
+      <find>cheburashka = { version = &quot;2&quot;, registry = &quot;elastio-private&quot; }</find>
+      <find>cheburashka::logg</find>
+      <find>189</find>
+      <find>client_me</find>
+      <find>ServiceEr</find>
+      <find>#[cfg(test)]</find>
+      <find>global</find>
+      <find>chebura</find>
+      <find>cheburashka =</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cheburashka = { path = &quot;../../cheburashka/cheburashka&quot; }</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/matroskin-status-tests</dir>
+      <dir>$PROJECT_DIR$/matroskin-tests/tests</dir>
+      <dir>$PROJECT_DIR$/matroskin-grpc-build/src</dir>
+      <dir>$PROJECT_DIR$/matroskin-tests/src/generated</dir>
+      <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/matroskin-grpc/src</dir>
+      <dir>$PROJECT_DIR$/matroskin-core</dir>
+      <dir>$PROJECT_DIR$/matroskin-grpc</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/matroskin-grpc/trace_context_propagation.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/src/trace_context_propagation.rs" />
+      <option value="$PROJECT_DIR$/matroskin-tests/src/generated/type_paths.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc-build/src/server.rs" />
+      <option value="$PROJECT_DIR$/matroskin-tests/src/generated/default_error.rs" />
+      <option value="$PROJECT_DIR$/matroskin-tests/src/generated/e2e.rs" />
+      <option value="$PROJECT_DIR$/matroskin-tests/src/generated/metrics.service.one.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc-build/src/client.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc-build/src/metrics.rs" />
+      <option value="$PROJECT_DIR$/matroskin-tests/tests/end_to_end.rs" />
+      <option value="$PROJECT_DIR$/matroskin-tests/tests/opt_tracing.rs" />
+      <option value="$PROJECT_DIR$/../cheburashka/cheburashka/src/logging/mod.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/src/tracing.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/src/private.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/Cargo_BACKUP_1607.toml" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/Cargo_BASE_1607.toml" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/Cargo_LOCAL_1607.toml" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/Cargo_REMOTE_1607.toml" />
+      <option value="$PROJECT_DIR$/matroskin-status-tests/Cargo.toml" />
+      <option value="$PROJECT_DIR$/matroskin-build/Cargo.toml" />
+      <option value="$PROJECT_DIR$/matroskin-tests/Cargo.toml" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/Cargo.toml" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/tests/integration/main.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/tests/integration/opt_context_propagation.rs" />
+      <option value="$PROJECT_DIR$/matroskin-grpc/src/lib.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="matroskin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matroskin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matroskin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matroskin" type="462c0819:PsiDirectoryNode" />
+              <item name="matroskin-grpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matroskin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matroskin" type="462c0819:PsiDirectoryNode" />
+              <item name="matroskin-grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matroskin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matroskin" type="462c0819:PsiDirectoryNode" />
+              <item name="matroskin-grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matroskin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matroskin" type="462c0819:PsiDirectoryNode" />
+              <item name="matroskin-grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="matroskin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matroskin" type="462c0819:PsiDirectoryNode" />
+              <item name="matroskin-tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="matroskin-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_private__tests__opentelemetry_enabled_context_propagated - 2021.06.04 at 13h 56m 25s.xml">
+      <configuration name="Test private::tests::opentelemetry_enabled_context_propagated" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_private__tests__opentelemetry_disabled_no_context_propagation - 2021.06.04 at 13h 59m 27s.xml">
+      <configuration name="Test private::tests::opentelemetry_disabled_no_context_propagation" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_private__tests - 2021.06.04 at 14h 00m 13s.xml">
+      <configuration name="Test private::tests" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_private__tests__opentelemetry_enabled_context_propagated - 2021.06.04 at 14h 01m 35s.xml">
+      <configuration name="Test private::tests::opentelemetry_enabled_context_propagated" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_private__tests__opentelemetry_enabled_context_propagated - 2021.06.04 at 14h 02m 05s.xml">
+      <configuration name="Test private::tests::opentelemetry_enabled_context_propagated" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_private__tests - 2021.06.04 at 14h 02m 15s.xml">
+      <configuration name="Test private::tests" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_private__tests__opentelemetry_disabled_no_context_propagation - 2021.06.04 at 14h 02m 21s.xml">
+      <configuration name="Test private::tests::opentelemetry_disabled_no_context_propagation" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_opt_context_propagation - 2021.06.07 at 17h 57m 49s.xml">
+      <configuration name="Test opt_context_propagation" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tests_disabled_opentelemetry - 2021.06.07 at 17h 58m 04s.xml">
+      <configuration name="Test tests_disabled_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tests_enabled_opentelemetry - 2021.06.07 at 17h 58m 07s.xml">
+      <configuration name="Test tests_enabled_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60024000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49525318" visible="true" weight="0.21727173" />
+      <window_info id="Structure" order="1" sideWeight="0.50474685" side_tool="true" visible="true" weight="0.21727173" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" sideWeight="0.49931225" weight="0.31197917" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4931256" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3299725" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32538956" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39963338" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19458129" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.31347388" />
+      <window_info anchor="bottom" id="Python Packages" order="15" weight="0.3299725" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Structure</value>
+      <value>Debug</value>
+      <value>Python Packages</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="2688" y="319" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1622761210527">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2688" y="319" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622761210527" />
+    <state x="149" y="296" width="1618" height="721" key="DiffContextDialog" timestamp="1622729585267">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="149" y="296" width="1618" height="721" key="DiffContextDialog/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622729585267" />
+    <state width="1876" height="327" key="GridCell.Tab.0.bottom" timestamp="1623077904356">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1623077904356" />
+    <state width="1876" height="327" key="GridCell.Tab.0.center" timestamp="1623077904355">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1623077904355" />
+    <state width="1876" height="327" key="GridCell.Tab.0.left" timestamp="1623077904353">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1623077904353" />
+    <state width="1876" height="327" key="GridCell.Tab.0.right" timestamp="1623077904355">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="327" key="GridCell.Tab.0.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1623077904355" />
+    <state width="1876" height="408" key="GridCell.Tab.1.bottom" timestamp="1622804524556">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="408" key="GridCell.Tab.1.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622804524556" />
+    <state width="1876" height="408" key="GridCell.Tab.1.center" timestamp="1622804524555">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="408" key="GridCell.Tab.1.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622804524555" />
+    <state width="1876" height="408" key="GridCell.Tab.1.left" timestamp="1622804524555">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="408" key="GridCell.Tab.1.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622804524555" />
+    <state width="1876" height="408" key="GridCell.Tab.1.right" timestamp="1622804524556">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="408" key="GridCell.Tab.1.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622804524556" />
+    <state x="2369" y="235" width="1022" height="737" key="SettingsEditor" timestamp="1622765080005">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2369" y="235" width="1022" height="737" key="SettingsEditor/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622765080005" />
+    <state x="270" y="27" width="1415" height="797" maximized="true" key="dock-window-1" timestamp="1621967330964">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="270" y="27" width="1415" height="797" maximized="true" key="dock-window-1/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621967330964" />
+    <state x="2958" y="209" width="760" height="604" key="find.popup" timestamp="1623071652340">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2958" y="209" width="760" height="604" key="find.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1623071652340" />
+    <state x="306" y="213" width="732" height="591" key="find.popup/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1621894766690" />
+    <state x="2543" y="269" width="672" height="686" key="search.everywhere.popup" timestamp="1622808723124">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2543" y="269" width="672" height="686" key="search.everywhere.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622808723124" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc-build/src/server.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="188" column="24" selection-start-line="188" selection-start-column="24" selection-end-line="188" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc-build/src/metrics.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="183" column="57" lean-forward="true" selection-start-line="183" selection-start-column="57" selection-end-line="183" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/tests/custom_attrs.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc-build/src/client.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2886">
+          <caret line="151" column="44" lean-forward="true" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/server.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tonic-0.4.3/src/response.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/src/generated/metrics.service.one.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding>
+            <element signature="e#181#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/src/generated/e2e.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <element signature="e#1233#1269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/src/generated/simple.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/src/protobuf/simple.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/error.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+          <folding>
+            <element signature="e#420#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/protobuf/google/rpc/status.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/protobuf/google/rpc/error_details.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/protobuf/google/rpc/code.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-core/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-status-tests/src/generated/check_status.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="265" column="35" selection-start-line="265" selection-start-column="35" selection-end-line="265" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/result.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="240" column="9" selection-start-line="240" selection-start-column="9" selection-end-line="240" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-opentelemetry-0.12.0/src/span_ext.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/sdk/propagation/trace_context.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="265" column="23" selection-start-line="265" selection-start-column="23" selection-end-line="265" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/propagation/text_map_propagator.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/global/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/sdk/propagation/composite.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/global/propagation.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tonic-0.4.3/src/metadata/map.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+          <folding>
+            <element signature="e#33#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tonic-0.4.3/src/request.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="133" column="36" selection-start-line="133" selection-start-column="36" selection-end-line="133" selection-end-column="36" />
+          <folding>
+            <element signature="e#3903#3904#0" expanded="true" />
+            <element signature="e#3932#3933#0" expanded="true" />
+            <element signature="e#33#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/http-0.2.4/src/header/value.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#32#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cheburashka/cheburashka/src/logging/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26004">
+          <caret line="1226" selection-start-line="1226" selection-end-line="1226" />
+          <folding>
+            <element signature="e#21332#21333#0" expanded="true" />
+            <element signature="e#21373#21374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/tests/integration/without_use.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/tests/integration/examples.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/tracing.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/tests/opt_tracing.rs" />
+    <entry file="file://$PROJECT_DIR$/matroskin-core/build.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/Cargo_BACKUP_1607.toml" />
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/private.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#101#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-status-tests/build.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-build/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-core/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc-build/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc-macros/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rusty-fork-0.3.0/src/fork_test.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/tests/end_to_end.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding>
+            <element signature="e#80#156#0" expanded="true" />
+            <element signature="e#320#1270#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-tests/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/tests/integration/opt_context_propagation.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/tests/integration/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-status-tests/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-protobuf/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matroskin-grpc/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

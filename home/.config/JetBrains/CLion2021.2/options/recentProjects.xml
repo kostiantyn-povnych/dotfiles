@@ -1,0 +1,177 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/sandbox/open_telemetry">
+          <value>
+            <RecentProjectMetaInfo frameTitle="open_telemetry – ~/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/macros.rs" projectWorkspaceId="1sky53GYgnoryEt65aE3DVc6m8Q">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712268559" />
+              <frame x="72" y="536" width="1818" height="921" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1621881245396" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/tracing">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tracing – opentelemetry-remote-context.rs" projectWorkspaceId="1sqsTdurYFBOAZU2tycWTFOrzdn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712296356" />
+              <frame x="72" y="27" width="1848" height="1173" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1622716697237" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/matroskin">
+          <value>
+            <RecentProjectMetaInfo frameTitle="matroskin – lib.rs" projectWorkspaceId="1szhIX0Su2USXo1yH2c7Vtc3uQZ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712296356" />
+              <frame x="2015" y="162" width="1818" height="921" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1622793692500" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/opentelemetry-rust">
+          <value>
+            <RecentProjectMetaInfo frameTitle="opentelemetry-rust – opentelemetry-jaeger/…/mod.rs" projectWorkspaceId="1tR1golc0pbksuI32hYd4tx9yxA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712272574" />
+              <frame x="1984" y="269" width="1838" height="879" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1623326117904" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/rust-rocksdb">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rust-rocksdb – db.rs" projectWorkspaceId="1rFNgwenbaQsTW04OmfliQ4h9oT">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712312129" />
+              <frame x="1920" y="0" width="1920" height="1200" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1623753071149" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/mq-client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mq-client – Cargo.toml" projectWorkspaceId="1twL6X32Ewjr3nam6Nv4BF7AyHi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712285030" />
+              <frame x="72" y="186" width="1818" height="921" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1624516529543" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/sandbox/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – test.rs" projectWorkspaceId="1uQdPV7fI3EnZ2A9j2jHD9kKL9M">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712283064" />
+              <frame x="72" y="186" width="1818" height="921" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1625561020253" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/sandbox/db_stats">
+          <value>
+            <RecentProjectMetaInfo frameTitle="db_stats – What's New in CLion" projectWorkspaceId="1vDH1WPIx9MrMs9Ho9JF9QJbXNT">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-211.6693.114" />
+              <option name="buildTimestamp" value="1617712291830" />
+              <frame x="72" y="27" width="1848" height="1173" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1627892426241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/roxide">
+          <value>
+            <RecentProjectMetaInfo frameTitle="roxide – roxide/src/checkpoint.rs" projectWorkspaceId="1uLPWAXbmNdOxnUVXfN49yyPybM">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.4746.93" />
+              <option name="buildTimestamp" value="1627378751355" />
+              <frame x="-31" y="27" width="1848" height="900" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1628520118107" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/cheburashka">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cheburashka – logging/mod.rs" projectWorkspaceId="1sf6XETneCTltzb51UrsBOytxXD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.4746.93" />
+              <option name="buildTimestamp" value="1627378785425" />
+              <frame x="-25" y="27" width="1818" height="921" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1630937851608" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Elastio/elastio">
+          <value>
+            <RecentProjectMetaInfo frameTitle="elastio – gc_gob.rs" projectWorkspaceId="1rExg8sYtuYfIj453A9MZVV2caU">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.4746.93" />
+              <option name="buildTimestamp" value="1627378785425" />
+              <frame x="2133" y="0" width="1707" height="999" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1631173918809" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/dep_features">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dep_features – extents.rs" projectWorkspaceId="1ym2ShTBS9vaz26SapvdBxL3Byx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.4746.93" />
+              <option name="buildTimestamp" value="1627378766937" />
+              <frame x="1969" y="0" width="1697" height="1006" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1633440476764" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/scalez">
+          <value>
+            <RecentProjectMetaInfo frameTitle="scalez – src/garbage_collection/mod.rs" projectWorkspaceId="1z2uTVAwLTmkRstOyH0WEmPS0tC">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.4746.93" />
+              <option name="buildTimestamp" value="1627378762261" />
+              <frame x="1920" y="0" width="1920" height="1200" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1633622491692" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/elastio">
+          <value>
+            <RecentProjectMetaInfo frameTitle="elastio – ~/.cargo/registry/src/dl.cloudsmith.io-2dc4edbccd98c64c/cheburashka-4.2.6/src/metrics/mod.rs" opened="true" projectWorkspaceId="1rExg8sYtuYfIj453A9MZVV2caU">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.4746.93" />
+              <option name="buildTimestamp" value="1627378762580" />
+              <frame x="1920" y="0" width="1920" height="1200" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1641216815643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/src" />
+  </component>
+</application>

@@ -1,0 +1,899 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/cheburashka/src/logging/mod.rs" description="config(cli_config.logging)" line="1004" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/tracing_opentelemetry.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cheburashka/src/logging/mod.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="758" column="24" selection-start-line="758" selection-start-column="24" selection-end-line="758" selection-end-column="43" />
+              <folding>
+                <element signature="e#4598#4618#0" expanded="true" />
+                <element signature="e#4630#4654#0" />
+                <element signature="e#4729#4767#0" />
+                <element signature="e#4778#4813#0" />
+                <element signature="e#4884#4910#0" />
+                <element signature="e#21332#21333#0" expanded="true" />
+                <element signature="e#21373#21374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cheburashka/src/lib.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cheburashka/src/sentry.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cheburashka/src/labels.rs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cheburashka/src/tracing.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#26#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ELASTIO_PUSH_METRICS_FILE</find>
+      <find>file-p</find>
+      <find>info_span</find>
+      <find>ini</find>
+      <find>DynamicLogWriter</find>
+      <find>create_dispatch</find>
+      <find>set_global_default</find>
+      <find>Regis</find>
+      <find>config_cli</find>
+      <find>Registry</find>
+      <find>init</find>
+      <find>builder</find>
+      <find>set_gl</find>
+      <find>LoggingConfig</find>
+      <find>install_bat</find>
+      <find>install_batch(</find>
+      <find>apply_labels</find>
+      <find>$</find>
+      <find>test_macro</find>
+      <find>LogWriter::File</find>
+      <find>create_fil</find>
+      <find>crate::tracing</find>
+      <find>if($log_config.opt_enabled)</find>
+      <find>opt_</find>
+      <find>opt_enabled</find>
+      <find>opt_ena</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/cheburashka/src</dir>
+      <dir>$PROJECT_DIR$/cheburashka/src/tracing</dir>
+      <dir>$PROJECT_DIR$/cheburashka/src/metrics</dir>
+      <dir>$PROJECT_DIR$/cheburashka/src/logging</dir>
+      <dir>$PROJECT_DIR$/cheburashka/src/</dir>
+      <dir>$PROJECT_DIR$/cheburashka/tests/integration</dir>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/cheburashka/tests/integration/tracing-open-telemetry.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/tests/tracing/jaeger_subscription.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/src/tracing/jaeger.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/tests/pipeline_builder.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/tests/integration/tracing_open_telemetry.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/src/tracing/mod.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/tests/integration/tracing_opt.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/Cargo.toml" />
+      <option value="$PROJECT_DIR$/cheburashka/tests/integration/main.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/src/logging/mod.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/tests/integration/tracing_opentelemetry.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/src/opentelemetry/mod.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/src/lib.rs" />
+      <option value="$PROJECT_DIR$/cheburashka/src/tracing.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cheburashka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheburashka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheburashka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheburashka" type="462c0819:PsiDirectoryNode" />
+              <item name="cheburashka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cheburashka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheburashka" type="462c0819:PsiDirectoryNode" />
+              <item name="cheburashka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="cheburashka-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 14h 47m 03s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 14h 54m 14s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 14h 55m 30s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 14h 56m 29s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 14h 56m 44s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 15h 02m 20s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 15h 35m 49s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 15h 36m 00s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opt__config_with_opentelemetry - 2021.06.03 at 15h 36m 59s.xml">
+      <configuration name="Test tracing_opt::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_tracing_opentelemetry__config_with_opentelemetry - 2021.06.04 at 10h 55m 40s.xml">
+      <configuration name="Test tracing_opentelemetry::config_with_opentelemetry" configurationId="CargoCommandRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127769000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49953228" visible="true" weight="0.14246425" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" weight="0.31463146" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32706767" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3975564" />
+      <window_info anchor="bottom" id="Messages" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.3298872" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24014778" />
+      <window_info anchor="bottom" id="clangd" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.28047663" />
+      <window_info anchor="bottom" id="Python Packages" order="16" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Structure" order="3" sideWeight="0.5004677" visible="true" weight="0.20352036" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="923" y="236" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1621843966851">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="923" y="236" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621843966851" />
+    <state x="506" y="193" width="969" height="848" key="CommitChangelistDialog2" timestamp="1622704855007">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="506" y="193" width="969" height="848" key="CommitChangelistDialog2/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622704855007" />
+    <state width="434" height="109" key="DebuggerActiveHint" timestamp="1622721143324">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="434" height="109" key="DebuggerActiveHint/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622721143324" />
+    <state x="72" y="227" width="1648" height="973" key="DiffContextDialog" timestamp="1622727352764">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="72" y="227" width="1648" height="973" key="DiffContextDialog/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622727352764" />
+    <state x="787" y="358" width="424" height="491" key="FileChooserDialogImpl" timestamp="1622121123570">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="2663" y="339" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621611460725" />
+    <state x="787" y="358" key="FileChooserDialogImpl/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622121123570" />
+    <state width="1804" height="320" key="GridCell.Tab.0.bottom" timestamp="1622795150739">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.0.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424487" />
+    <state width="1804" height="320" key="GridCell.Tab.0.bottom/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622795150739" />
+    <state width="1804" height="320" key="GridCell.Tab.0.center" timestamp="1622795150739">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.0.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424486" />
+    <state width="1804" height="320" key="GridCell.Tab.0.center/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622795150739" />
+    <state width="1804" height="320" key="GridCell.Tab.0.left" timestamp="1622795150738">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.0.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424486" />
+    <state width="1804" height="320" key="GridCell.Tab.0.left/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622795150738" />
+    <state width="1804" height="320" key="GridCell.Tab.0.right" timestamp="1622795150739">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.0.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424486" />
+    <state width="1804" height="320" key="GridCell.Tab.0.right/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622795150739" />
+    <state width="1804" height="395" key="GridCell.Tab.1.bottom" timestamp="1622721404213">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.1.bottom/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424489" />
+    <state width="1804" height="395" key="GridCell.Tab.1.bottom/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622721404213" />
+    <state width="1804" height="395" key="GridCell.Tab.1.center" timestamp="1622721404212">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.1.center/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424488" />
+    <state width="1804" height="395" key="GridCell.Tab.1.center/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622721404212" />
+    <state width="1804" height="395" key="GridCell.Tab.1.left" timestamp="1622721404212">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.1.left/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424487" />
+    <state width="1804" height="395" key="GridCell.Tab.1.left/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622721404212" />
+    <state width="1804" height="395" key="GridCell.Tab.1.right" timestamp="1622721404213">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state width="1876" height="422" key="GridCell.Tab.1.right/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621861424489" />
+    <state width="1804" height="395" key="GridCell.Tab.1.right/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622721404213" />
+    <state x="504" y="238" width="984" height="737" key="SettingsEditor" timestamp="1622727927821">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="2369" y="216" width="1022" height="737" key="SettingsEditor/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621842309011" />
+    <state x="504" y="238" width="984" height="737" key="SettingsEditor/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622727927821" />
+    <state x="591" y="335" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1622017100641">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="591" y="335" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622017100641" />
+    <state x="2196" y="297" width="1103" height="719" key="dock-window-1" timestamp="1621845520753">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2196" y="297" width="1103" height="719" key="dock-window-1/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621845520753" />
+    <state x="388" y="324" width="1104" height="719" key="dock-window-2" timestamp="1621620731443">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="388" y="324" width="1104" height="719" key="dock-window-2/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1621620731443" />
+    <state x="904" y="238" width="695" height="576" key="find.popup" timestamp="1622810546329">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="2709" y="186" width="598" height="520" key="find.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622809337699" />
+    <state x="904" y="238" width="695" height="576" key="find.popup/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622810546329" />
+    <state x="660" y="282" width="672" height="685" key="run.anything.popup" timestamp="1622709402614">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="660" y="282" width="672" height="685" key="run.anything.popup/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1622709402614" />
+    <state x="659" y="289" width="672" height="686" key="search.everywhere.popup" timestamp="1623326136539">
+      <screen x="72" y="27" width="1848" height="1173" />
+    </state>
+    <state x="2530" y="268" width="699" height="702" key="search.everywhere.popup/72.27.1848.1173/1920.0.1920.1200@1920.0.1920.1200" timestamp="1622808732685" />
+    <state x="659" y="289" width="672" height="686" key="search.everywhere.popup/72.27.1848.1173/1920.0.1920.1200@72.27.1848.1173" timestamp="1623326136539" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cheburashka/examples/promtail.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/examples/metrics.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/logging/sentry/layer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/examples/sentry.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/sdk/mod.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-jaeger-0.12.1/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/sdk/propagation/trace_context.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/dispatcher.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/global/propagation.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="e#41#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-subscriber-0.2.18/src/registry/sharded.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2324">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/loki.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/label_set_lifetimes.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-199" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-jaeger-0.12.1/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-jaeger-0.12.1/src/exporter/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/metrics/push.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5720">
+          <caret line="270" column="3" selection-start-line="270" selection-start-column="3" selection-end-line="270" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/logging/writer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#4218#4679#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/winapi-0.3.9/src/um/http.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16764">
+          <caret line="778" column="48" selection-start-line="778" selection-start-column="48" selection-end-line="778" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/metrics/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="826" lean-forward="true" selection-start-line="826" selection-end-line="826" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka-macros/src/as_span.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1643" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-subscriber-0.2.18/src/fmt/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="527" column="17" selection-start-line="527" selection-start-column="17" selection-end-line="527" selection-end-column="17" />
+          <folding>
+            <element signature="e#25685#25686#0" expanded="true" />
+            <element signature="e#25720#25721#0" expanded="true" />
+            <element signature="e#26081#26082#0" expanded="true" />
+            <element signature="e#26104#26105#0" expanded="true" />
+            <element signature="e#46#74#0" expanded="true" />
+            <element signature="e#46#74#0" expanded="true" />
+            <element signature="e#46#74#0" expanded="true" />
+            <element signature="e#50551#50552#0" expanded="true" />
+            <element signature="e#50614#50615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/sdk/trace/tracer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-jaeger-0.12.1/src/exporter/thrift/jaeger.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-opentelemetry-0.12.0/src/tracer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/marker.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="680" column="11" selection-start-line="680" selection-start-column="11" selection-end-line="680" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-opentelemetry-0.12.0/src/layer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#49#94#0" expanded="true" />
+            <element signature="e#49#95#0" expanded="true" />
+            <element signature="e#49#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.18/src/subscriber.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1387">
+          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-subscriber-0.2.18/src/layer.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="521" column="7" selection-start-line="521" selection-start-column="7" selection-end-line="521" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/tracing/jaeger.rs" />
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/tracing/mod.rs" />
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/pipeline_builder.rs" />
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/tracing/jaeger_subscription.rs" />
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/metrics.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/as_span_simple.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <element signature="e#65#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/label_set_simple.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/str/converts.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="84" column="7" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/net/udp.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14520">
+          <caret line="691" column="11" selection-start-line="691" selection-start-column="11" selection-end-line="691" selection-end-column="11" />
+          <folding>
+            <element signature="e#27148#27149#0" expanded="true" />
+            <element signature="e#27179#27180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/label_set_with_expression_labels.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/json_event_callback.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/opentelemetry/mod.rs" />
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/opentelemetry-0.13.0/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.18/src/dispatcher.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="281" column="7" selection-start-line="281" selection-start-column="7" selection-end-line="281" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#5504#0" />
+            <element signature="e#5516#5609#0" />
+            <element signature="e#5554#5572#0" />
+            <element signature="e#5631#5748#0" />
+            <element signature="e#5666#5745#0" />
+            <element signature="e#5684#5719#0" />
+            <element signature="e#5794#5843#0" />
+            <element signature="e#5806#5829#0" />
+            <element signature="e#5846#5938#0" />
+            <element signature="e#6070#6207#0" />
+            <element signature="e#6477#6512#0" />
+            <element signature="e#6550#7084#0" />
+            <element signature="e#6556#6601#0" />
+            <element signature="e#6638#7055#0" />
+            <element signature="e#7086#7310#0" />
+            <element signature="e#7367#7471#0" />
+            <element signature="e#7604#8433#0" />
+            <element signature="e#8527#8573#0" />
+            <element signature="e#8579#8880#0" />
+            <element signature="e#8882#9541#0" />
+            <element signature="e#9694#9717#0" />
+            <element signature="e#9734#10001#0" />
+            <element signature="e#10003#11008#0" />
+            <element signature="e#11719#11904#0" />
+            <element signature="e#12008#12060#0" />
+            <element signature="e#12111#12137#0" />
+            <element signature="e#12183#12327#0" />
+            <element signature="e#12195#12230#0" />
+            <element signature="e#12246#12325#0" />
+            <element signature="e#12444#12446#0" />
+            <element signature="e#12448#12815#0" />
+            <element signature="e#12864#12874#0" />
+            <element signature="e#12880#12915#0" />
+            <element signature="e#12898#12909#0" />
+            <element signature="e#12916#13172#0" />
+            <element signature="e#12954#12961#0" />
+            <element signature="e#12962#13119#1" />
+            <element signature="e#13013#13075#0" />
+            <element signature="e#13145#13148#0" />
+            <element signature="e#13174#13541#0" />
+            <element signature="e#13619#13651#0" />
+            <element signature="e#13634#13645#0" />
+            <element signature="e#13665#13823#0" />
+            <element signature="e#13703#13710#0" />
+            <element signature="e#13711#13805#1" />
+            <element signature="e#13825#13950#0" />
+            <element signature="e#14016#14048#0" />
+            <element signature="e#14031#14042#0" />
+            <element signature="e#14062#14122#0" />
+            <element signature="e#14124#14249#0" />
+            <element signature="e#14303#14313#0" />
+            <element signature="e#14319#14354#0" />
+            <element signature="e#14337#14348#0" />
+            <element signature="e#14355#14455#0" />
+            <element signature="e#14391#14411#0" />
+            <element signature="e#14417#14453#0" />
+            <element signature="e#14502#14896#0" />
+            <element signature="e#14561#14589#0" />
+            <element signature="e#14601#14894#0" />
+            <element signature="e#15085#15169#0" />
+            <element signature="e#15104#15163#0" />
+            <element signature="e#15175#15310#0" />
+            <element signature="e#15673#16109#0" />
+            <element signature="e#16152#16197#0" />
+            <element signature="e#16222#16281#0" />
+            <element signature="e#16287#16818#0" />
+            <element signature="e#17005#17404#0" />
+            <element signature="e#17438#17474#0" />
+            <element signature="e#17487#17533#0" />
+            <element signature="e#17539#17829#0" />
+            <element signature="e#17861#17912#0" />
+            <element signature="e#17913#17965#0" />
+            <element signature="e#17971#18350#0" />
+            <element signature="e#18395#18439#0" />
+            <element signature="e#18440#18506#0" />
+            <element signature="e#18512#18904#0" />
+            <element signature="e#18937#18969#0" />
+            <element signature="e#19033#19372#0" />
+            <element signature="e#19403#19429#0" />
+            <element signature="e#19480#19773#0" />
+            <element signature="e#19804#19828#0" />
+            <element signature="e#19879#20166#0" />
+            <element signature="e#20196#20220#0" />
+            <element signature="e#20270#20976#0" />
+            <element signature="e#21012#21034#0" />
+            <element signature="e#21100#22421#0" />
+            <element signature="e#22535#22556#0" />
+            <element signature="e#22557#22632#0" />
+            <element signature="e#22638#23419#0" />
+            <element signature="e#23454#23475#0" />
+            <element signature="e#23535#23804#0" />
+            <element signature="e#23919#24004#0" />
+            <element signature="e#24122#24249#0" />
+            <element signature="e#24317#24382#0" />
+            <element signature="e#24418#24460#0" />
+            <element signature="e#24486#24487#0" expanded="true" />
+            <element signature="e#24539#24540#0" expanded="true" />
+            <element signature="e#24585#24620#0" />
+            <element signature="e#24807#24808#0" expanded="true" />
+            <element signature="e#24847#24848#0" expanded="true" />
+            <element signature="e#24946#24984#0" />
+            <element signature="e#25009#25054#0" />
+            <element signature="e#25071#25104#0" />
+            <element signature="e#25173#25200#0" />
+            <element signature="e#25201#25203#0" />
+            <element signature="e#25218#25271#0" />
+            <element signature="e#25272#25274#0" />
+            <element signature="e#25302#25348#0" />
+            <element signature="e#25349#25351#0" />
+            <element signature="e#25381#25414#0" />
+            <element signature="e#25458#25483#0" />
+            <element signature="e#25484#25486#0" />
+            <element signature="e#25498#25523#0" />
+            <element signature="e#25524#25526#0" />
+            <element signature="e#25545#25880#0" />
+            <element signature="e#25577#25645#0" />
+            <element signature="e#25709#25712#0" />
+            <element signature="e#25804#25878#0" />
+            <element signature="e#25835#25847#0" />
+            <element signature="e#25857#25871#0" />
+            <element signature="e#25944#26704#0" />
+            <element signature="e#25950#26165#0" />
+            <element signature="e#26198#26222#0" />
+            <element signature="e#26239#26516#0" />
+            <element signature="e#26297#26304#0" />
+            <element signature="e#26305#26415#1" />
+            <element signature="e#26575#26702#0" />
+            <element signature="e#26618#26662#0" />
+            <element signature="e#26668#26696#0" />
+            <element signature="e#26780#27140#0" />
+            <element signature="e#26842#27138#0" />
+            <element signature="e#26940#27115#0" />
+            <element signature="e#26989#27105#0" />
+            <element signature="e#27196#27280#0" />
+            <element signature="e#27367#27909#0" />
+            <element signature="e#27406#27907#0" />
+            <element signature="e#27454#27901#0" />
+            <element signature="e#27827#27834#0" />
+            <element signature="e#27911#32776#0" />
+            <element signature="e#28018#28041#0" />
+            <element signature="e#28058#28166#0" />
+            <element signature="e#28106#28129#0" />
+            <element signature="e#28202#28313#0" />
+            <element signature="e#28355#28486#0" />
+            <element signature="e#28620#28791#0" />
+            <element signature="e#28829#28962#0" />
+            <element signature="e#28854#28874#0" />
+            <element signature="e#28875#28877#0" />
+            <element signature="e#29039#30243#0" />
+            <element signature="e#29239#30091#0" />
+            <element signature="e#29263#29288#0" />
+            <element signature="e#29358#29391#0" />
+            <element signature="e#29485#29528#0" />
+            <element signature="e#29529#29531#0" />
+            <element signature="e#29567#29602#0" />
+            <element signature="e#29603#29605#0" />
+            <element signature="e#29627#29649#0" />
+            <element signature="e#29650#29990#0" />
+            <element signature="e#30012#30033#0" />
+            <element signature="e#30034#30036#0" />
+            <element signature="e#30057#30078#0" />
+            <element signature="e#30079#30081#0" />
+            <element signature="e#30149#30236#1" />
+            <element signature="e#30319#31633#0" />
+            <element signature="e#30466#30693#0" />
+            <element signature="e#30492#30501#0" />
+            <element signature="e#30502#30681#1" />
+            <element signature="e#30769#31564#0" />
+            <element signature="e#30793#30818#0" />
+            <element signature="e#30888#30921#0" />
+            <element signature="e#30934#31273#0" />
+            <element signature="e#31296#31339#0" />
+            <element signature="e#31340#31342#0" />
+            <element signature="e#31378#31413#0" />
+            <element signature="e#31414#31416#0" />
+            <element signature="e#31438#31460#0" />
+            <element signature="e#31461#31463#0" />
+            <element signature="e#31485#31506#0" />
+            <element signature="e#31507#31509#0" />
+            <element signature="e#31530#31551#0" />
+            <element signature="e#31552#31554#0" />
+            <element signature="e#31678#31797#0" />
+            <element signature="e#31865#32774#0" />
+            <element signature="e#31941#32455#0" />
+            <element signature="e#31965#31990#0" />
+            <element signature="e#32060#32093#0" />
+            <element signature="e#32187#32230#0" />
+            <element signature="e#32231#32233#0" />
+            <element signature="e#32269#32304#0" />
+            <element signature="e#32305#32307#0" />
+            <element signature="e#32329#32351#0" />
+            <element signature="e#32352#32354#0" />
+            <element signature="e#32376#32397#0" />
+            <element signature="e#32398#32400#0" />
+            <element signature="e#32421#32442#0" />
+            <element signature="e#32443#32445#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/tracing_opentelemetry.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/tests/integration/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/sentry.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/labels.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/tracing.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#26#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheburashka/src/logging/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="758" column="24" lean-forward="true" selection-start-line="758" selection-start-column="24" selection-end-line="758" selection-end-column="43" />
+          <folding>
+            <element signature="e#4598#4618#0" expanded="true" />
+            <element signature="e#4630#4654#0" />
+            <element signature="e#4729#4767#0" />
+            <element signature="e#4778#4813#0" />
+            <element signature="e#4884#4910#0" />
+            <element signature="e#21332#21333#0" expanded="true" />
+            <element signature="e#21373#21374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

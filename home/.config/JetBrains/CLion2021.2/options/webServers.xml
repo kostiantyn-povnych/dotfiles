@@ -1,0 +1,10 @@
+<application>
+  <component name="WebServers">
+    <groups>
+      <group>
+        <name>Remote Development</name>
+        <mayChangeLevel>false</mayChangeLevel>
+      </group>
+    </groups>
+  </component>
+</application>

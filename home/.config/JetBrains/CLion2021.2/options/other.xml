@@ -1,0 +1,138 @@
+<application>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1rExg8sYtuYfIj453A9MZVV2caU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rFNgwenbaQsTW04OmfliQ4h9oT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sf6XETneCTltzb51UrsBOytxXD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sky53GYgnoryEt65aE3DVc6m8Q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sqsTdurYFBOAZU2tycWTFOrzdn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1szhIX0Su2USXo1yH2c7Vtc3uQZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tR1golc0pbksuI32hYd4tx9yxA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1twL6X32Ewjr3nam6Nv4BF7AyHi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uLPWAXbmNdOxnUVXfN49yyPybM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uQdPV7fI3EnZ2A9j2jHD9kKL9M">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vDH1WPIx9MrMs9Ho9JF9QJbXNT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1ym2ShTBS9vaz26SapvdBxL3Byx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1z2uTVAwLTmkRstOyH0WEmPS0tC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.31098592" />
+    <property name="Cargo Test.Splitter.Proportion" value="0.3508392" />
+    <property name="Cargo TestSupport.hidePassedTests" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6057692" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FindSplitterProportion" value="0.43438914" />
+    <property name="KEYMAP" value="format&#10;comme" />
+    <property name="MarketplacePluginsSearchHistory" value="rust&#10;rus" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.34594595" />
+    <property name="SplitFileEditor.Proportion" value="0.7832326" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.7772206" />
+    <property name="appcds.runOnSecondStart" value="CL-212.4746.93-530e64d750f81ba4fe59c5164b2e13bd2726dce235eb24dad34374b550658f6d" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.5479603" />
+    <property name="evlsprt.211" value="17973e50bdb" />
+    <property name="evlsprt2.211" value="1793ae41c6e" />
+    <property name="evlsprt3.211" value="13" />
+    <property name="evlsprt3.212" value="15" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/src/scalez/target&#10;/home/kpovnych/src/scalez&#10;/home/kpovnych/src/elastio&#10;/home/kpovnych/Projects/Elastio/cheburashka&#10;/home/kpovnych/Projects/Elastio/roxide&#10;/home/kpovnych/Projects/Elastio/rust-rocksdb&#10;/home/kpovnych/Projects/Elastio/mq-client&#10;/home/kpovnych/Projects/opentelemetry-rust&#10;/home/kpovnych/Projects&#10;/home/kpovnych/Projects/Elastio/matroskin&#10;/home/kpovnych/Projects/Elastio/tracing&#10;/home/kpovnych/Projects/Elastio/elastio" />
+    <property name="file.gist.reindex.count" value="8535" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="find.popup.splitter" value="0.52380955" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-212.4746.93" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="lastSeenTip" value="neue-ScopesInTODO.html" />
+    <property name="lastTimeTipsWereShown" value="1627636430165" />
+    <property name="last_opened_file_path" value="$USER_HOME$/src/elastio" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="org.rust.lang.LAST_UPDATE" value="1641304084094" />
+    <property name="org.rust.lang.LAST_VERSION" value="0.4.151.3997-212" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-212.4746.93" />
+    <property name="seenTips" value="neue-db_tip_back_up_table.html,neue-WildcardsInNavigationPopups.html,neue-CtrlShiftIForLookup.html,neue-CtrlW.html,neue-Multicursor1.html,neue-RunConfigFolders.html,neue-NavBar.html,neue-DragToOpen.html,neue-SearchEverywhere.html,neue-SpecialCharacters.html,neue-CamelPrefixesInNavigationPopups.html,neue-DotEtcInLookups.html,neue-SelectIn.html,neue-Welcome.html,neue-SpeedSearch.html,neue-CodeCompletion.html,neue-NewCMakeProject.html,neue-YouTrack_integration.html,neue-InlineVariable.html,neue-Close_all_editor_tabs.html,neue-SelectionInLoGView.html,neue-db_tip_drag_csv_file_to_create_table.html,neue-CheckRegExp.html,neue-ShowHideSideBars.html,neue-IntroduceVariable.html,neue-EnterDirectoryInGotoFile.html,neue-GotoLineInFile.html,neue-WordCompletion.html,neue-FileStructurePopup.html,neue-SelectRunDebugConfiguration.html,neue-EditorConfig.html,neue-HippieCompletion.html,neue-GoToFile.html,neue-db_tip_forget_cached_schemas.html,neue-QuickJavaDocInLookups.html,neue-JumpToLastEdit.html,neue-GoToClass.html,neue-MethodSeparators.html,neue-LiveTemplates.html,neue-GoToDeclaration.html,neue-CtrlDotInLookups.html,neue-DeleteLine.html,neue-ScopesInTODO.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.40465632" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.40499195" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="elastio-history1" project-path="$USER_HOME$/src/elastio" last-access-time="1641216863896" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+  <component name="ValgrindSettings">
+    <option name="valgrindPath" value="/usr/libexec/valgrind" />
+  </component>
+</application>

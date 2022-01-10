@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="162.55.94.120" id="a9cced91-d796-4869-b80e-6912370ac4c3" port="22" nameFormat="DESCRIPTIVE" username="kpovnych" />
+    </configs>
+  </component>
+</application>
